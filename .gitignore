@@ -1,0 +1,8 @@
+datomic-pro*
+
+target
+
+.vscode
+.calva
+.nrepl-port
+.clj-kondo
